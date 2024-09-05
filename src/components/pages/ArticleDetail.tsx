@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import { fetchArticleById } from "../services/api";
+import { fetchArticleById } from "../types/api";
 import { Article } from "../types/Article";
 
 const ArticleDetail: React.FC = () => {

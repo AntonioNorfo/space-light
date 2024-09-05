@@ -1,5 +1,5 @@
 import React from "react";
-import ArticleDetail from "../ArticleDetail";
+import ArticleDetail from "./ArticleDetail";
 
 const ArticlePage: React.FC = () => {
   return (

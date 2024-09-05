@@ -1,4 +1,4 @@
-import { Article } from "../types/Article";
+import { Article } from "./Article";
 
 const API_URL = "https://api.spaceflightnewsapi.net/v4/articles";
 

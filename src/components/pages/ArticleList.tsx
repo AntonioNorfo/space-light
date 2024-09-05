@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import { fetchArticles } from "../services/api";
-import { Article } from "./types/Article";
+import { fetchArticles } from "../types/api";
+import { Article } from "../types/Article";
 import ArticleCard from "./ArticleCard";
 
 const ArticleList: React.FC = () => {
