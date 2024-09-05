@@ -1,5 +1,6 @@
 import React from "react";
 import { Article } from "../types/Article";
+import "../../App.css";
 
 interface ArticleCardProps {
   article: Article;
